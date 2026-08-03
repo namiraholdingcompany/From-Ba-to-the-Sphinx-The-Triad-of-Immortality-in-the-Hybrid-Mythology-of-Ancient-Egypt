@@ -38,7 +38,7 @@ Mythology, Ancient Egypt, Hybrid Deities, Ba–Ka–Sphinx, Religious Ontology
 
 ## How to Cite
 
-> Haleh Ghoorchian. (2026). *From Ba to the Sphinx: The Triad of Immortality in the Hybrid Mythology of Ancient Egypt*. Nebešt Foundation. Zenodo. [![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.20937618.svg)](https://doi.org/[https://doi.org/10.5281/zenodo.20937618)
+> Haleh Ghoorchian. (2026). *From Ba to the Sphinx: The Triad of Immortality in the Hybrid Mythology of Ancient Egypt*. Nebešt Foundation. Zenodo. [![DOI](https://img.shields.io/badge/DOI-https://doi.org/10.5281/zenodo.20937618-blue.svg)](https://doi.org/https://doi.org/10.5281/zenodo.20937618)
 
 ---
 
